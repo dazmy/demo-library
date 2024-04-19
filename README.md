@@ -4,6 +4,7 @@
 - Intellij IDEA
 - Postman
 - Laragon (to run mysql & heidisql)
+- Maven
 
 
 ## Installation
